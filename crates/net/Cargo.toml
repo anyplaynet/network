@@ -37,7 +37,7 @@ http = "1"
 # Its net report is outside semver: a bump of iroh needs a look at `tunnel::Reach::of`.
 iroh = { version = "~1.4.1", features = ["unstable-net-report"] }
 keyring = "4"
-netwatch = "0.19.3"
+netwatch = "0.20.0"
 # The relays' port for address probes.
 iroh-relay = "1.4.1"
 rand = "0.10"
