@@ -15,7 +15,7 @@ devices = ["dep:cpal"]
 [dependencies]
 nnnoiseless = { version = "0.5.2", default-features = false }
 opus = "0.4"
-sonora = "0.2"
+sonora = "0.3"
 cpal = { version = "0.18", optional = true }
 
 [[example]]
